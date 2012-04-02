@@ -1,0 +1,3 @@
+== BrewTroller Web Interface	
+A web interface for the BrewTroller system. 
+The BTnic.rb backend is used for communication with the BrewTroller and 
